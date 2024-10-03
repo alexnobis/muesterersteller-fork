@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "//musterersteller.de/static/css/main.22fc7ab6.css",
-    "main.js": "//musterersteller.de/static/js/main.7f942f79.js",
-    "static/js/498.da9e2b5c.chunk.js": "//musterersteller.de/static/js/498.da9e2b5c.chunk.js",
-    "static/js/703.5f156e28.chunk.js": "//musterersteller.de/static/js/703.5f156e28.chunk.js",
-    "static/js/198.9679440a.chunk.js": "//musterersteller.de/static/js/198.9679440a.chunk.js",
-    "static/media/Design_07.png": "//musterersteller.de/static/media/Design_07.1701fd959dca897b5069.png",
-    "static/media/Design_01.png": "//musterersteller.de/static/media/Design_01.e6c40a9e16f03256f84e.png",
-    "static/media/Design_06.png": "//musterersteller.de/static/media/Design_06.ad5c4739c8ad737dec4c.png",
-    "static/media/Design_08.png": "//musterersteller.de/static/media/Design_08.de233a0010c95f78576a.png",
-    "static/media/Design_11.png": "//musterersteller.de/static/media/Design_11.9c689fbed8b5edfa07f1.png",
-    "static/media/Design_02.png": "//musterersteller.de/static/media/Design_02.93ac43592b39a6f059ff.png",
-    "static/media/Virgil.woff2": "//musterersteller.de/static/media/Virgil.740490b285bcdadee39a.woff2",
-    "static/media/Design_14.png": "//musterersteller.de/static/media/Design_14.4ae2de90ed9163cc84cc.png",
-    "static/media/Design_13.png": "//musterersteller.de/static/media/Design_13.cd784f631f9a15905f1f.png",
-    "index.html": "//musterersteller.de/index.html",
-    "main.22fc7ab6.css.map": "//musterersteller.de/static/css/main.22fc7ab6.css.map",
-    "main.7f942f79.js.map": "//musterersteller.de/static/js/main.7f942f79.js.map",
-    "498.da9e2b5c.chunk.js.map": "//musterersteller.de/static/js/498.da9e2b5c.chunk.js.map",
-    "703.5f156e28.chunk.js.map": "//musterersteller.de/static/js/703.5f156e28.chunk.js.map",
-    "198.9679440a.chunk.js.map": "//musterersteller.de/static/js/198.9679440a.chunk.js.map"
+    "main.css": "/static/css/main.b468e6e5.css",
+    "main.js": "/static/js/main.592d1e6b.js",
+    "static/js/498.da9e2b5c.chunk.js": "/static/js/498.da9e2b5c.chunk.js",
+    "static/js/703.5f156e28.chunk.js": "/static/js/703.5f156e28.chunk.js",
+    "static/js/198.9679440a.chunk.js": "/static/js/198.9679440a.chunk.js",
+    "static/media/Design_07.png": "/static/media/Design_07.1701fd959dca897b5069.png",
+    "static/media/Design_01.png": "/static/media/Design_01.e6c40a9e16f03256f84e.png",
+    "static/media/Design_06.png": "/static/media/Design_06.ad5c4739c8ad737dec4c.png",
+    "static/media/Design_08.png": "/static/media/Design_08.de233a0010c95f78576a.png",
+    "static/media/Design_11.png": "/static/media/Design_11.9c689fbed8b5edfa07f1.png",
+    "static/media/Design_02.png": "/static/media/Design_02.93ac43592b39a6f059ff.png",
+    "static/media/Virgil.woff2": "/static/media/Virgil.740490b285bcdadee39a.woff2",
+    "static/media/Design_14.png": "/static/media/Design_14.4ae2de90ed9163cc84cc.png",
+    "static/media/Design_13.png": "/static/media/Design_13.cd784f631f9a15905f1f.png",
+    "index.html": "/index.html",
+    "main.b468e6e5.css.map": "/static/css/main.b468e6e5.css.map",
+    "main.592d1e6b.js.map": "/static/js/main.592d1e6b.js.map",
+    "498.da9e2b5c.chunk.js.map": "/static/js/498.da9e2b5c.chunk.js.map",
+    "703.5f156e28.chunk.js.map": "/static/js/703.5f156e28.chunk.js.map",
+    "198.9679440a.chunk.js.map": "/static/js/198.9679440a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22fc7ab6.css",
-    "static/js/main.7f942f79.js"
+    "static/css/main.b468e6e5.css",
+    "static/js/main.592d1e6b.js"
   ]
 }
